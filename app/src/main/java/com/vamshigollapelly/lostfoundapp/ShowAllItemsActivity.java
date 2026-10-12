@@ -17,7 +17,7 @@ public class ShowAllItemsActivity extends AppCompatActivity {
     private RecyclerView   recyclerView;
     private Spinner        spinnerFilter;
     private final String[] CATS = {"All","Electronics","Pets",
-            "Wallets","Keys","Bags","Clothing","Other"};
+            "Wallets","Keys","Bags","Clothing","Other","المعهد التقني"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

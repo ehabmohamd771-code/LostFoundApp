@@ -91,7 +91,7 @@ public class CreateAdvertActivity extends AppCompatActivity {
         ivPreview   = findViewById(R.id.ivImagePreview);
 
         String[] cats = {"Electronics","Pets","Wallets",
-                "Keys","Bags","Clothing","Other"};
+                "Keys","Bags","Clothing","Other","المعهد التقني"};
         ArrayAdapter<String> adp = new ArrayAdapter<>(this,
                 android.R.layout.simple_spinner_item, cats);
         adp.setDropDownViewResource(

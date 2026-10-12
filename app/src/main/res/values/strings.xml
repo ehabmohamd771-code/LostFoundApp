@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LostFoundApp</string>
+    <string name="app_name">دليلي</string>
+    <string name="home_title">دليلي</string>
+    <string name="home_subtitle">اعرف أين وضعت أغراضك، وسهّل العثور على المفقودات</string>
+    <string name="create_advert">إضافة مفقود أو معثور عليه</string>
+    <string name="show_all_items">عرض المفقودات والمعثورات</string>
+    <string name="show_on_map">عرض المواقع على الخريطة</string>
 </resources>
